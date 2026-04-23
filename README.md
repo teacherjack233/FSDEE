@@ -25,7 +25,7 @@ python main.py --dataset mnist --num_tasks 5 --gpu 0
 - `--threshold`: Expansion threshold (default: `0.15`)
 - `--n_steps`: Number of time steps (default: `8`)
 - `--dataset_fraction`: Dataset sampling fraction (default: `0.5`)
-- `--memory_size`: Memory buffer size (default: `200`)
+- `--memory_size`: Memory buffer size (default: `2000`)
 - `--save_dir`: Save directory (default: `results`)
 
 ### Examples
