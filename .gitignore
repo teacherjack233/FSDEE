@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Logs
+logs/
+*.log
+
+# Test
+.pytest_cache/
+.coverage
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Database
+*.sqlite3
+*.db
